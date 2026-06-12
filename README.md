@@ -37,3 +37,7 @@ Added razer_keypad.cfg for the Razer Naga Trinity.
 
 # Running
 wayboard razer_keypad.cfg
+
+# Image:
+<img width="1106" height="560" alt="image" src="https://github.com/user-attachments/assets/61a0caa3-23a1-4724-8f9c-42baa5681fa4" />
+I colored the background green so it could key the background out in OBS.
