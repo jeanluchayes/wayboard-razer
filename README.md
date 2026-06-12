@@ -2,10 +2,6 @@
 
 `wayboard` is a libinput-based keyboard input display for Wayland.
 
-> [!TIP]
-> This repository previously contained a keyboard display for X11. If you are
-> interested, take a look at the `x11` tag.
-
 # Building
 
 The following dependencies are required only at build time:
@@ -33,13 +29,6 @@ install`.
 > # chmod u+s $(which wayboard)
 > ```
 
-# License
-
-wayboard is licensed under the GNU General Public License v3 **only**, no later
-version. wayboard is partially based off of MIT-licensed code from other
-projects; see the source code for more information.
-
 # Configuration
 
-See the [example](https://github.com/tesselslate/wayboard/blob/main/example.cfg)
-configuration file.
+Added razer_keypad.cfg for The Razer Tartarus Pro.
