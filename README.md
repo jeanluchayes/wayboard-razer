@@ -18,7 +18,7 @@ The following dependencies are required for both building and running:
 - `wayland-client`
 
 To build and install wayboard, clone the repository and run 
-mkdir build && cd build && meson setup --prefix=/usr . .. && meson compile && meson install
+- `mkdir build && cd build && meson setup --prefix=/usr . .. && meson compile && meson install`
 
 
 > [!IMPORTANT]
@@ -36,8 +36,14 @@ Added razer_keypad.cfg for The Razer Tartarus Pro.
 Added razer_keypad.cfg for the Razer Naga Trinity.
 
 # Running
-wayboard razer_keypad.cfg
+- `wayboard razer_keypad.cfg`
 
 # Image:
 <img width="1106" height="560" alt="image" src="https://github.com/user-attachments/assets/61a0caa3-23a1-4724-8f9c-42baa5681fa4" />
 I colored the background green so it could key the background out in OBS.
+
+I can't take a picture of the red timing text on the keys as it is too fast, but you can see when a key is pressed down quickly vs when its held down.
+Held-down keys stay grey; quickly pressed keys get red text on them.
+
+Video Demo:
+https://youtu.be/1soldt7AIXs?si=4RFlUyZqXvnFlfyE
